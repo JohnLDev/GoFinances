@@ -1,6 +1,6 @@
 <h1 align="center" >
   
-  <img alt="GoFinances" title="happy" src="./web/src/assets/logo.svg" />
+  <img alt="GoFinances" title="GoFinances" src="./web/src/assets/logo.svg" />
 </h1>
 
 <p align="center">GoFinances aplicação desenvolvida como desafio durante o Bootcamp GoStack</p>
@@ -45,7 +45,7 @@ Este projeto foi construído como desafio do bootcamp GoStack da [Rocketseat](ht
 
 
 * Dashboard visual que mostra todas as transações
-* Cadastrar transações manualmente
+* Cadastrar transações manualmente (Não estava no projeto original)
 * Cadastrar transações via arquivo csv
   
 <br>
