@@ -1,9 +1,9 @@
 <h1 align="center" >
   
-  <img alt="happy" title="happy" src="./front-end/src/images/Logo.svg" />
+  <img alt="GoFinances" title="happy" src="./web/src/assets/logo.svg" />
 </h1>
 
-<p align="center">GoFinances aplicação desenvolvida como desafio durante o Boow</p>
+<p align="center">GoFinances aplicação desenvolvida como desafio durante o Bootcamp GoStack</p>
 
 
 <p align="center">
